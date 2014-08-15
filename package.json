@@ -1,0 +1,18 @@
+{
+  "name": "generator-arcgispro",
+  "version": "0.1.0",
+  "description": "generator-arcgispro",
+  "dependencies": {
+    "yeoman-generator": "^0.16.0",
+    "yosay": "~1.0.0",
+    "chalk": "~0.5.1"
+  },
+  "author": "",
+  "keywords": [
+    "generator-arcgispro",
+    "arcgis pro",
+    "esri"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/bertt/generator-arcgispro"
+}
